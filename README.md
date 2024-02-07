@@ -1,2 +1,2 @@
 # Leetcode 150
-This repo contains the dsa questions on arrays. Questions from leetcode and gfg
+This repo contains the 150 interview preparation questions from leetcode.
