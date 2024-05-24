@@ -1,2 +1,1 @@
-gkvjkekckvkfv 
- mgmekdkvkwldkvv
+no right 
