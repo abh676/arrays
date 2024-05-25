@@ -1,1 +1,5 @@
-no right 
+   jhhnkn
+  
+
+
+bm.no right 
